@@ -34,7 +34,7 @@
     "logrocket": "^1.0.10",
     "mkdirp": "^1.0.4",
     "phoenix": "^1.5.3",
-    "posthog-js": "^1.4.4",
+    "posthog-js": "^1.57.2",
     "query-string": "^6.13.1",
     "react": "^16.13.1",
     "react-color": "^2.18.1",
